@@ -9,8 +9,8 @@
     "post": { "belongsTo": "Post" }
   },
   "Productos": {
-      "id": 1,
-      "nombre": "Leche Evaporada",
+      "id": {1},
+      "nombre": {"Leche Evaporada"},
       "precio": 4,
       "descripcion": "Es un producto alimenticio saludable",
       "n": 1,
