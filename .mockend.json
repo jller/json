@@ -7,5 +7,14 @@
   "Comment": {
     "body": { "string": {} },
     "post": { "belongsTo": "Post" }
-  }
+  },
+  "Productos": {
+      "id": 1,
+      "nombre": "Leche Evaporada",
+      "precio": 4,
+      "descripcion": "Es un producto alimenticio saludable",
+      "n": 1,
+      "t": 4,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVtmydUkyQS1ZTUVqui4TIC4nSX_FY7vNzQ&usqp=CAU"
+    }
 }
